@@ -1,0 +1,7 @@
+C:\Users\Code\source\repos\IndexerPr\IndexerPr\bin\Debug\IndexerPr.exe.config
+C:\Users\Code\source\repos\IndexerPr\IndexerPr\bin\Debug\IndexerPr.exe
+C:\Users\Code\source\repos\IndexerPr\IndexerPr\bin\Debug\IndexerPr.pdb
+C:\Users\Code\source\repos\IndexerPr\IndexerPr\obj\Debug\IndexerPr.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\IndexerPr\IndexerPr\obj\Debug\IndexerPr.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\IndexerPr\IndexerPr\obj\Debug\IndexerPr.exe
+C:\Users\Code\source\repos\IndexerPr\IndexerPr\obj\Debug\IndexerPr.pdb
