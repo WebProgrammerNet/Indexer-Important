@@ -39,20 +39,25 @@ namespace IndexerPr
             CountGroup = countgroup;
             students = new Student[countgroup];
         }
-
-        public override string ToString()
+        
+                public override string ToString()
         {
             string result = "";
             //  return $"{students[i].Name} {students[i].Surname}";
 
             foreach (var item in students)
             {
-                result = item.Surname + item.Surname;
+                if (item != null)
+                {
+                    result += item.Surname + item.Surname;
+                }
+
             }
 
             return result;
 
         }
+
 
     }
 }
