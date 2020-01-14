@@ -12,19 +12,16 @@ namespace IndexerPr
 
         static void Main(string[] args)
         {
-            Student cavid = new Student("Cavid", "Basirov");
+                      Student cavid = new Student("Cavid", "Basirov");
             Group p111 = new Group("P111", 17);
             p111[0] = cavid;
             // Console.WriteLine(p111[0]);
-            
-            Console.WriteLine(p111[0].ToString());
+            string result = p111.ToString();
+            Console.WriteLine(result);
 
             
             Console.ReadLine();
         }
-
-      
-
     }
 }
 
